@@ -22,3 +22,11 @@ git checkout main
 ## ¿Cómo escribir un README.md con formato?
 
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+### Procedimiento de la práctica
+![git clone https://github.com/gitt-3-pat/p1](image.png)
+
+![git status](image-1.png)
+** ¿Por qué no nos deja? **
+porque debemos cambiar a la carpeta del repositorio
+![Ahora sí podemos](image-2.png)
