@@ -1,0 +1,9 @@
+A continuación, se explica la utilidad de los comandos usados en la práctica de manera menos detallada.
+El detalle puede encontrarse en el README.md del propio repositorio
+
+git clone: copiamos el repositorio remoto en mi máquina local
+git status: muestra el estado actual del repositorio
+git add: agrega los archivos que se indiquen al staging area, preparándose para ser confirmados
+git commit: confirma los cambios en el repositorio local. Guarda los cambios de git add como un nuevo punto al historial del repositorio
+git push: sube los commits locales al repositorio en remoto
+git checkout: sirve para cambiar entre ramas. En nuestro caso, nos creamos una rama nueva llamada feature.
